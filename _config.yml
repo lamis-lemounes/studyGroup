@@ -1,6 +1,8 @@
 #Setup ~~~
 #Follow these 2 steps to set up your site.
 
+user: MozillaStudyGroupUV2
+
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
 title: the mozilla study group constantine 2
